@@ -23,3 +23,11 @@ git config user.email "<email address>"
 git config user.name 
 git config user.email
 	> to check if the username and email are sucessfully connected
+git add .
+	> adds all modified files in your current directory to the staging area
+git add "filename"
+	> adds a specific file to the staging area
+git commit -m "message"
+	> Saves the changes that we've made to the files in the staging area to the repository. The message describes what changes were made in this commit.
+git status
+	> displays the current status of your file/folder
