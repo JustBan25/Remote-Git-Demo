@@ -1,1 +1,1 @@
-HEllo, this is Mark's repository!
+Hello, this is Mark's repository!
